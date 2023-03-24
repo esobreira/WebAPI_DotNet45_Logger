@@ -1,0 +1,10 @@
+{ "time": "2023-03-23 23:05:53.1162", "level": "INFO", "message": "Categories : Get" }
+{ "time": "2023-03-23 23:06:34.3888", "level": "INFO", "message": "Categories : Post" }
+{ "time": "2023-03-23 23:06:39.8304", "level": "INFO", "message": "Categories : Delete" }
+{ "time": "2023-03-23 23:06:45.7962", "level": "INFO", "message": "Categories : Get" }
+{ "time": "2023-03-23 23:06:53.7606", "level": "INFO", "message": "Categories : Put" }
+{ "time": "2023-03-23 23:06:57.6164", "level": "INFO", "message": "ProductsController : Get" }
+{ "time": "2023-03-23 23:07:03.4951", "level": "INFO", "message": "ProductsController : Post" }
+{ "time": "2023-03-23 23:07:09.4179", "level": "INFO", "message": "ProductsController : Delete" }
+{ "time": "2023-03-23 23:07:16.3292", "level": "INFO", "message": "ProductsController : Get" }
+{ "time": "2023-03-23 23:07:22.7563", "level": "INFO", "message": "ProductsController : Put" }
